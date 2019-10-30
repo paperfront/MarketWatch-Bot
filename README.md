@@ -1,4 +1,4 @@
-# Spaghetti-Bot
+# MarketWatch-Bot
 Market Watch Automation
 
 Note: You must have chromedriver installed for this to work.
